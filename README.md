@@ -1,4 +1,4 @@
-# [🥘 Foodie – Delicious Food Landing Page 🔗](https://foodie.vercel.app)
+# [🥘 Foodie – Delicious Food Landing Page 🔗](https://foodie-next-landing-page.vercel.app/)
 
 
 ![Foodie Banner](./public/images/hero.png)
@@ -54,4 +54,4 @@ npm install
 npm run dev
 ```
 
-# [Access the live demo 👈 🔗](https://foodie.vercel.app)
+# [Access the live demo 👈 🔗](https://foodie-next-landing-page.vercel.app/)
