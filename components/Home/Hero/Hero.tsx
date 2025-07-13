@@ -1,7 +1,6 @@
 import Image from "next/image";
 import React from "react";
 import {  FaApple, FaGooglePlay, FaLocationArrow } from "react-icons/fa";
-import { FaAndroid } from "react-icons/fa6";
 import { GrMapLocation } from "react-icons/gr";
 import { HeroContent } from "@/constant/Constant";
 function Hero() {

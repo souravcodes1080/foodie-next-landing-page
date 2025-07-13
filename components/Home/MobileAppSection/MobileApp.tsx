@@ -22,7 +22,7 @@ function MobileApp() {
             <p className="mt-6 text-sm sm:text-base text-gray-800 leading-6 sm:leading-8 dark:text-gray-300">
               Pick one of our stock themes, or create your custom theme with the
               most advanced theme editor on any online survey building tool.
-              We're driven beyond just finishing the projects. We want to find
+              We&apos;re driven beyond just finishing the projects. We want to find
               solutions using our website & apps.
             </p>
             <div className="flex space-x-4 mt-8">
